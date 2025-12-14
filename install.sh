@@ -1,3 +1,5 @@
+cd/opt
+git clone
 #!/bin/sh
 
 
